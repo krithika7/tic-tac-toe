@@ -1,0 +1,18 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic tac toe multiplayer game",
+  "dependencies": {
+    "underscore" : "*",
+    "restify" : "*",
+    "express" : "*",
+    "body-parser": "*",
+    "express-handlebars": "*",
+    "nodejs-websocket": "*"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "krithika.chandramouli@gmail.com"
+}
